@@ -1,13 +1,11 @@
-# phil.ewels.co.uk
+# Peibo Xu
 
 The repository holds the code used on my mini-website,
-[phil.ewels.co.uk](http://phil.ewels.co.uk).
+(https://michaelpeibo.github.io/peibo.xu/).
 
 Feel free to use any of this code as you wish.
 It's released under a [Creative Commons Attribution-ShareAlike 3.0 International License](http://creativecommons.org/licenses/by/3.0/).
 
-Background photo taken by Phil Ewels, showing lake Vättern in Sweden
-on a Midsummer night in 2014.
 
 Flipping animation based on a [tutorial](https://davidwalsh.name/css-flip)
 by David Walsh.
@@ -18,9 +16,6 @@ Site theme based on _Identity_ by HTML5 UP:
 > Free for personal and commercial use under the
 > [CCA 3.0 license](html5up.net/license)
 
-> Just a fun little profile/card-style template I whipped up during
-> a break between major projects. Minimal, responsive, and powered
-> by Skel + Sass. Enjoy :)
 
 > AJ n33.co @n33co dribbble.com/n33
 
@@ -30,3 +25,4 @@ Site theme based on _Identity_ by HTML5 UP:
 >* [CSS3 Pie](css3pie.com)
 >* [Respond.js](j.mp/respondjs)
 >* [Skel](skel.io)
+>* [source code](https://github.com/ewels/phil.ewels.co.uk/)
